@@ -12,3 +12,5 @@ initial setting time in minutes
 final   setting time in minutes
 
 and at the end of the project we are going to see the accuracies of our models after we tested it on different cement samples.
+
+NOTE: i can't upload the data file as it's private but i can show only a sample of the data to show you the work done and this is to ensure the privacy of the company's data
