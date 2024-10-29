@@ -7,7 +7,7 @@ from flask import Flask, request, jsonify , render_template
 
 
 # Load the trained model
-with open("random_forest_28d_strength_model.pkl", "rb") as file:
+with open("Linear_Reg_28d_strength_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 app = Flask(__name__)
